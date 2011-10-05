@@ -1,3 +1,4 @@
+#wichtiger Kommentar
 class Account
 	def initialize(cash)
 		@cash = cash
